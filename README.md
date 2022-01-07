@@ -21,3 +21,8 @@
 
 #### Terrafor Variable file 
 * Create a seperate .tf file to store variables which can be used in the main.tf
+
+#### Security Group Rules set up
+* Ports 3000, 80 and 22
+* ingress for inbound rules 
+* egress for outbound rules
