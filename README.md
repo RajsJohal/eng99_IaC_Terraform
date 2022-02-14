@@ -5,7 +5,7 @@
 * Add terraform binary file to the path within env variabes
 
 ### Secure AWS Keys
-* Create Environment Variables for AWS keys
+* Create Environment Variables for AWS keys on localhost machine 
 
 #### Create Folder Strcuture
 
